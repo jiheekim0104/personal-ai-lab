@@ -65,8 +65,10 @@
 
 ---
 ## 📁 파일 구조 (GitHub 기준)
+```
 personal-ai-lab/
 └─ fire-station-analysis/
    ├─ fire_station_eda.ipynb
    ├─ fire_station_seoul.csv
    └─ README.md
+```
