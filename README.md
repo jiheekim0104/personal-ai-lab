@@ -1,8 +1,5 @@
-# personal-ai-lab
-End-to-end AI project: from public data to model deployment
-
 # 공공데이터 기반 AI 프로젝트 포트폴리오
-
+End-to-end AI project: from public data to model deployment
 이 저장소는 데이터 수집부터 모델 학습, API 구현까지 전 과정을 담은 실전형 AI 실습 프로젝트입니다.
 
 ## 📌 단계 구성
