@@ -64,4 +64,9 @@
 - 공공 화재 출동 건수 데이터 연계 및 회귀 예측 모델
 
 ---
-
+## 📁 파일 구조 (GitHub 기준)
+personal-ai-lab/
+└─ fire-station-analysis/
+   ├─ fire_station_eda.ipynb
+   ├─ fire_station_seoul.csv
+   └─ README.md
